@@ -1,4 +1,4 @@
-# Auth Ts Service
+# Nats Ts PoC
 
 - Node
 - Ts
